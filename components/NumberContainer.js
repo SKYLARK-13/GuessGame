@@ -23,9 +23,11 @@ const styles = StyleSheet.create({
   number: {
     color: colors.accent,
     fontSize: 22,
+    
     borderWidth: 2,
     borderColor: colors.accent,
-    padding: 10,
+    padding: 15,
+    alignContent:'center',
     borderRadius: 10,
     marginVertical: 10,
   },
